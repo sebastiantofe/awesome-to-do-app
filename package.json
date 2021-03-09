@@ -1,0 +1,19 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Awesome to-do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastiantofe/awesome-to-do-app.git"
+  },
+  "author": "Sebastian Torrado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastiantofe/awesome-to-do-app/issues"
+  },
+  "homepage": "https://github.com/sebastiantofe/awesome-to-do-app#readme"
+}
